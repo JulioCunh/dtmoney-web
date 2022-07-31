@@ -1,4 +1,5 @@
 import Modal from 'react-modal';
+import { useState } from 'react';
 import closeImg from '../../assets/close.svg';
 import incomeImg from '../../assets/income.svg';
 import outcomeImg from '../../assets/outcome.svg';
